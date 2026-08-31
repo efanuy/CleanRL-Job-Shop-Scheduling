@@ -1,6 +1,8 @@
-For the project RL-Job-Shop-Scheduling(github.com/prosysscience/RL-Job-Shop-Scheduling.git), the agent cannot be successfully trained in python 3.10+, due to the outdated Ray package.
+For the original project RL-Job-Shop-Scheduling： https://github.com/prosysscience/RL-Job-Shop-Scheduling.git
 
-In this CleanRL-Job-Shop-Scheduling, to train the agent more efficiently, I have rewritten the main.py using CleanRL as the deep-RL tools, which based on python 3.10+ as well as pytorch 2.13.0. 
+Due to the outdated Ray package and hardcoded TensorFlow，the project supports neither Python 3.10+ nor PyTorch-based training.
+
+In this CleanRL-Job-Shop-Scheduling, to train the agent more efficiently, I have rewritten main.py using CleanRL, a deep RL library built on Python 3.10+ and PyTorch 2.7.0.
 
 At the same time, I have changed some functions of the gymnasium environment for CleanRL compatibility.
 
