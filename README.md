@@ -4,6 +4,6 @@ Due to the outdated Ray package and hardcoded TensorFlow，the project supports 
 
 In this CleanRL-Job-Shop-Scheduling, to train the agent more efficiently, I have rewritten main.py using CleanRL, a deep RL library built on Python 3.10+ and PyTorch 2.7.0.
 
-At the same time, I have changed some functions of the gymnasium environment for CleanRL compatibility.
+Meanwhile, I modified the signature of the __init__ function inside the Gymnasium environment file (./env/jss_env.py) for CleanRL compatibility.
 
-** To upgrade, simply overwrite the original main.py and merge the /env folder into the original project directory.
+** To upgrade, simply overwrite the original main.py and merge the ./env folder into the original project directory.
