@@ -10,7 +10,7 @@ Meanwhile, I modified the signature of the __init__ function inside the Gymnasiu
 
 The training results are close to perfect, and the charts in WandB are shown below：
 
-<img width="429" height="304" alt="image" src="https://github.com/user-attachments/assets/297d65c1-2d99-450a-aeca-4e6f1e08d372" />
+<img width="419" height="287" alt="image" src="https://github.com/user-attachments/assets/d16594b0-a740-4075-a3ad-656b1e5e6d1c" />
 
 <img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/bccd9aca-a021-4a58-be8d-6367f5fa3cfb" />
 
