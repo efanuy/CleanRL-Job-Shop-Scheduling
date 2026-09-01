@@ -8,7 +8,12 @@ Meanwhile, I modified the signature of the __init__ function inside the Gymnasiu
 
 ** To upgrade, simply overwrite the original main.py and merge the ./env folder into the original project directory.
 
-The training charts in WandB has been shown below：
+The training results are close to perfect, and the charts in WandB are shown below：
+
 <img width="429" height="304" alt="image" src="https://github.com/user-attachments/assets/297d65c1-2d99-450a-aeca-4e6f1e08d372" />
 
-<img width="446" height="299" alt="image" src="https://github.com/user-attachments/assets/4eabf26d-d916-40a0-97f1-8c526337ed24" />
+<img width="416" height="285" alt="image" src="https://github.com/user-attachments/assets/bccd9aca-a021-4a58-be8d-6367f5fa3cfb" />
+
+<img width="1328" height="627" alt="image" src="https://github.com/user-attachments/assets/392ab679-00e1-4e6c-a84c-facf876ed250" />
+
+
